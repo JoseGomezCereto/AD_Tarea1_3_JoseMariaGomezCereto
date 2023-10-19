@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/Users/josegomez/NetBeansProjects/AD_Tarea1_3_JoseMariaGomezCereto/../../Downloads/empresa.xsd" uri="xml-resources/jaxb/Binding/empresa.xsd"/>
+</catalog>

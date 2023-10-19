@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<departamento>
+    <nombre>Departamento Ventas</nombre>
+    <direccion>calle Almería, 29 - 04001 Almería</direccion>
+    <empleados>
+        <empleado dni="111111111A">
+            <nombre>Juan</nombre>
+            <edad>20</edad>
+            <puesto>comercial</puesto>
+        </empleado>
+        <empleado dni="222222222B">
+            <nombre>Luis</nombre>
+            <edad>30</edad>
+            <puesto>encargado</puesto>
+        </empleado>
+        <empleado dni="333333333C">
+            <nombre>Jose</nombre>
+            <edad>40</edad>
+            <puesto>gerente</puesto>
+        </empleado>
+        <empleado dni="123121414A">
+            <nombre>Fulanito de Tal</nombre>
+            <edad>90</edad>
+            <puesto>CEO Emerito</puesto>
+        </empleado>
+    </empleados>
+</departamento>
